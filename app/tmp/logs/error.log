@@ -1,0 +1,257 @@
+2012-03-05 04:28:52 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:28:52 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:28:53 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:28:53 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:28:53 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:01 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:01 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:01 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:02 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:02 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:02 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:03 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:03 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:03 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:10 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:10 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:29:10 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:31:45 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:31:45 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:31:45 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:31:49 Error: [MissingControllerException] Controller class Home1Controller could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:31:49 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:31:49 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:31:49 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:31:59 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:31:59 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:31:59 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:13 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:13 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:13 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:15 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:15 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:15 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:16 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:16 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:16 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:16 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:16 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:16 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:18 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:18 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:33:18 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:37:19 Error: [MissingViewException] View file "/Users/miso/github/Get-A-Gig/app/View/Pages/home1.ctp" is missing.
+#0 /Users/miso/github/Get-A-Gig/lib/Cake/View/View.php(460): View->_getViewFileName('home1')
+#1 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(962): View->render('home1', NULL)
+#2 /Users/miso/github/Get-A-Gig/app/Controller/PagesController.php(80): Controller->render('home1')
+#3 [internal function]: PagesController->display('home1')
+#4 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(488): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-05 04:38:42 Error: [MissingViewException] View file "/Users/miso/github/Get-A-Gig/app/View/Pages/signup.ctp" is missing.
+#0 /Users/miso/github/Get-A-Gig/lib/Cake/View/View.php(460): View->_getViewFileName('signup')
+#1 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(962): View->render('signup', NULL)
+#2 /Users/miso/github/Get-A-Gig/app/Controller/PagesController.php(80): Controller->render('signup')
+#3 [internal function]: PagesController->display('signup')
+#4 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(488): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-05 04:39:07 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:39:07 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:39:07 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:40:11 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:40:11 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:40:11 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:40:12 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:40:12 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:40:12 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:43:38 Error: [MissingViewException] View file "/Users/miso/github/Get-A-Gig/app/View/Pages/signup.ctp" is missing.
+#0 /Users/miso/github/Get-A-Gig/lib/Cake/View/View.php(460): View->_getViewFileName('signup')
+#1 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(962): View->render('signup', NULL)
+#2 /Users/miso/github/Get-A-Gig/app/Controller/PagesController.php(80): Controller->render('signup')
+#3 [internal function]: PagesController->display('signup')
+#4 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(488): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-05 04:43:41 Error: [MissingViewException] View file "/Users/miso/github/Get-A-Gig/app/View/Pages/gigs.ctp" is missing.
+#0 /Users/miso/github/Get-A-Gig/lib/Cake/View/View.php(460): View->_getViewFileName('gigs')
+#1 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(962): View->render('gigs', NULL)
+#2 /Users/miso/github/Get-A-Gig/app/Controller/PagesController.php(80): Controller->render('gigs')
+#3 [internal function]: PagesController->display('gigs')
+#4 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(488): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-05 04:43:49 Error: [MissingControllerException] Controller class ProcessAdsController could not be found.
+#0 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-05 04:45:49 Error: [MissingViewException] View file "/Users/miso/github/Get-A-Gig/app/View/Pages/signup.ctp" is missing.
+#0 /Users/miso/github/Get-A-Gig/lib/Cake/View/View.php(460): View->_getViewFileName('signup')
+#1 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(962): View->render('signup', NULL)
+#2 /Users/miso/github/Get-A-Gig/app/Controller/PagesController.php(80): Controller->render('signup')
+#3 [internal function]: PagesController->display('signup')
+#4 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(488): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-13 09:29:12 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [1130] Host 'lfh066b.halls.manchester.ac.uk' is not allowed to connect to this MySQL server" is missing, or could not be created.
+#0 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Datasource/DboSource.php(244): Mysql->connect()
+#1 /Users/miso/github/Get-A-Gig/lib/Cake/Model/ConnectionManager.php(101): DboSource->__construct(Array)
+#2 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(3354): ConnectionManager::getDataSource('default')
+#3 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(1085): Model->setDataSource('default')
+#4 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(3380): Model->setSource('users')
+#5 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(2635): Model->getDataSource()
+#6 /Users/miso/github/Get-A-Gig/app/Controller/UsersController.php(24): Model->find('all', Array)
+#7 [internal function]: UsersController->login()
+#8 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(488): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#11 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2012-03-13 09:31:41 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [1130] Host 'lfh066b.halls.manchester.ac.uk' is not allowed to connect to this MySQL server" is missing, or could not be created.
+#0 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Datasource/DboSource.php(244): Mysql->connect()
+#1 /Users/miso/github/Get-A-Gig/lib/Cake/Model/ConnectionManager.php(101): DboSource->__construct(Array)
+#2 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(3354): ConnectionManager::getDataSource('default')
+#3 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(1085): Model->setDataSource('default')
+#4 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(3380): Model->setSource('users')
+#5 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(2635): Model->getDataSource()
+#6 /Users/miso/github/Get-A-Gig/app/Controller/UsersController.php(24): Model->find('all', Array)
+#7 [internal function]: UsersController->login()
+#8 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(488): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#11 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2012-03-13 09:32:13 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [1130] Host 'lfh066b.halls.manchester.ac.uk' is not allowed to connect to this MySQL server" is missing, or could not be created.
+#0 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Datasource/DboSource.php(244): Mysql->connect()
+#1 /Users/miso/github/Get-A-Gig/lib/Cake/Model/ConnectionManager.php(101): DboSource->__construct(Array)
+#2 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(3354): ConnectionManager::getDataSource('default')
+#3 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(1085): Model->setDataSource('default')
+#4 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(3380): Model->setSource('users')
+#5 /Users/miso/github/Get-A-Gig/lib/Cake/Model/Model.php(2635): Model->getDataSource()
+#6 /Users/miso/github/Get-A-Gig/app/Controller/UsersController.php(24): Model->find('all', Array)
+#7 [internal function]: UsersController->login()
+#8 /Users/miso/github/Get-A-Gig/lib/Cake/Controller/Controller.php(488): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/miso/github/Get-A-Gig/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#11 /Users/miso/github/Get-A-Gig/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}

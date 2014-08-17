@@ -1,0 +1,42 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Type/Copy Writer: Eriksen Ben
+  Site: n/a
+  Twitter: n/a
+  Location: Manchester, UK
+
+  Designer/Git-Destroyer: Joshi Krish
+  Site: http://krishj.com
+  Twitter: @tuffleo
+  Location: Manchester, UK
+
+  Project Manager/DB and Business logic: Papadopoulos Orestis   Site: n/a
+  Twitter: @orjpap
+  Location: Manchester, UK
+
+  <your title>: Pavlou Nikos 
+  Site:
+  Twitter:
+  Location: Manchester, UK
+
+  Scripter/Idea originator: Tanner-Davies Daniel 
+  Site:
+  Twitter:
+  Location: Manchester, UK
+ 
+  Coder/Designer/Wizard/ServerAdmin/CFO: Zmiric Miso 
+  Site: http://misozmiric.com/me
+  Twitter: @mzmiric5
+  Location: Manchester, UK
+
+/* THANKS */
+  Names (& URL): 
+  James Robertson (http://jaaaaam.es) for help with the wizardry js :P Thnx mate!
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, Bootstrap 2, H5BP, GigWork (A custom modified version of CakePHP)
+  Software: Espresso, 

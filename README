@@ -1,0 +1,30 @@
+Get-A-Gig
+Project Repo
+------------------------------------------------
+
+The Get-A-Gig Year 1 (2011-2012) Group Y8 Team Project
+	- Allows artists to register and easily find gigs and helps them save time
+	- Allows venues to register and easily advertise that they are looking for 
+	  artists to perform at their events
+	- Integrates SoundCloud API in order to allow artist type accounts to connect
+	  with their SoundCloud account and have their music stream on their profiles
+	- Integrates Google API in order to provide both artists and venues with geolocation
+	  based search filters
+	- Integrated with the cloud. Get-A-Gig Alpha in it's current deployment run's on
+	  Amazon's EC2 server and uses S3 for cloud based storage and daily backups.
+	  
+This project has been developed by the Y8 Group who's members are:
+	- Ben Eriksen
+	- Krish Joshi
+	- Orestis Papadopoulos
+	- Nikos Pavlou
+	- Daniel Tanner-Davies
+	- Miso Zmiric
+
+This project is based on the CakePHP framework and uses elements from the 
+Twitter Bootstrap 2.0.
+
+Special thanks to James Robertson (Y7) for his help on the amazing wizardry.js class.
+
+Special thanks to everyone who participated in the alpha test of our web app for any design
+change suggestions, bug finding and general project support.

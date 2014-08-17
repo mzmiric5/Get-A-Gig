@@ -1,0 +1,144 @@
+/* ===== Primary Styles ========================================================
+   Author: Y8
+   ========================================================================== */
+  
+@font-face {
+    font-family: 'NightmareHeroRegular';
+    src: url('nightmare_hero_normal-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.clearfix {
+	clear: both;
+}
+
+.tweet ul{
+	list-style: none;
+}
+
+#stepsNav{
+    list-style:none;
+    overflow:hidden;
+    padding:10px 10px 0;
+}
+
+#stepsNav li{
+    float:left;
+    /*margin:3px;*/
+    /*border:1px transparent solid;*/
+    /*padding:5px;*/
+    -webkit-transition: all 0.2s ease-in-out;
+}
+
+#theform legend{
+	padding-left: 50px;
+}
+
+#theform div{
+	padding-left: 60px;
+}
+
+#btns{
+    position:relative;
+    height:40px;
+}
+
+.hidden{
+    display:none
+}
+
+.shown{
+    display:inline-block
+}
+
+#toc {
+	position: relative;
+	top: 0;	  	
+-}
+
+.largeButton{
+	background-color: #978f8e;
+	border-radius: 2px;
+	/*text-shadow: 2px 2px #CCC;*/
+	box-shadow:0px 0px 10px 0px rgba(0,0,0,0.1) inset;
+    background-image: url('../img/ptBox.png');
+}
+
+a.largeButton{
+	background-color: #978f8e;
+	border-radius: 2px;
+	/*text-shadow: 2px 2px #CCC;*/
+	box-shadow:0px 0px 10px 0px rgba(0,0,0,0.4) inset;
+    background-image: url('../img/ptBox.png');
+}
+
+.largeButton a{
+	color: #b94a48;
+}
+
+.largeButton a:hover{
+	color: #000000;
+	text-decoration: none;
+}
+
+.largeButton:hover{
+	/*text-shadow: 0px 0px #333;*/
+	box-shadow:0px 0px 10px 0px rgba(0,0,0,0.2) inset;
+	text-decoration: none !important;
+}
+
+ul.row li a {
+	color: #333;
+}
+
+.home [class*="span"] {
+	margin-top: 10px;
+}
+
+.home .ad {
+    /*text-shadow: 2px 2px #CCC;*/
+    box-shadow:0px 0px 10px 0px rgba(0,0,0,0.1) inset;
+    background-color: #978f8e;
+    margin-top:20px;
+    border-radius: 2px;
+    /*padding: 5px;*/
+    text-align: center;
+    color: black;
+    padding-top: 5px;
+    background-image: url('../img/ptBox.png');
+}
+
+.home .ad:hover {
+	/*text-shadow: 0px 0px #333;*/
+	box-shadow:0px 0px 10px 0px rgba(0,0,0,0.2) inset;
+	background-color: #978f8e;
+	margin-top:20px;
+	border-radius: 2px;
+	/*padding: 5px;*/
+	text-align: center;
+	color: black;
+	text-decoration: none;	
+	padding-top: 5px;
+}
+
+.home ul li {
+	text-shadow: none;
+}
+
+.getAgig {
+	font-family: 'NightmareHeroRegular';
+}
+
+.hero-unit .getAgig {
+	display: inline;
+	line-height: 1;
+	letter-spacing: 4px;
+	font-size: 78px;
+	font-weight: normal;
+}
+
+[class*="span"] label {
+	color: #fff;
+}
